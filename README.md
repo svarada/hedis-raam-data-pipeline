@@ -1,4 +1,4 @@
-# HEDIS & RAAM Data Pipeline (Simulated Healthcare Project)
+# Simulated Healthcare Project
 
 This project showcases a **simulated end-to-end data pipeline** for reporting and analyzing **HEDIS quality metrics**, **Risk Adjustment and Audit Management(RAAM)** data, and **clinical event tracking** (ADT) using data sourced from Epic's Analytics based data models - like (Clarity/Caboodle).
 
