@@ -17,8 +17,6 @@ This project showcases a **simulated end-to-end data pipeline** for reporting an
 
 ## 🏗️ Pipeline Architecture
 
-![pipeline](pipeline_diagram/data_pipeline_diagram.png)
-
 1. **Data Ingestion**: Simulated CSV files act as extracts from Epic Chronicles
 2. **Transformation**: SQL scripts and Python notebooks clean, join, and aggregate data
 3. **Reporting**: Interactive dashboards visualize HEDIS & RAAM metrics
@@ -29,10 +27,9 @@ This project showcases a **simulated end-to-end data pipeline** for reporting an
 ## ⚙️ Tools Used
 
 - **SQL** (pulled data using Clarity/Caboodle data models)
-- **Python (Pandas, NumPy, Matplotlib)**
+- **Python** (Pandas, NumPy, Matplotlib; data exploration and modeling)
 - **Power BI** (dashboard visuals)
 - **Draw.io** (for pipeline diagram)
-- **Jupyter Notebook** (data exploration and modeling)
 
 ---
 
